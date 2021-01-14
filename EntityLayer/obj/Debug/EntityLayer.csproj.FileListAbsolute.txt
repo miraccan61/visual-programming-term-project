@@ -1,0 +1,2 @@
+C:\Users\mirac\OneDrive\Masaüstü\deneme2\visual-programming-term-project\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme2\visual-programming-term-project\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\mirac\OneDrive\Masaüstü\deneme2\visual-programming-term-project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme2\visual-programming-term-project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
