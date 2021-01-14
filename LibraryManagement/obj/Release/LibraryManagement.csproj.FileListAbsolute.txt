@@ -1,0 +1,69 @@
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.Form1.resources
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.Properties.Resources.resources
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LibraryManagement.exe.config
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\DataAccessLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\EntityLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LogicLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\System.Data.OleDb.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\DataAccessLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\DataAccessLayer.dll.config
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\EntityLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LogicLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\System.Data.OleDb.xml
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\Release\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\Release\LibraryManagement2020version2000.mdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LibraryManagement2020version2000.mdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LibraryManagement.exe.config
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\DataAccessLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\EntityLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LogicLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\System.Data.OleDb.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\DataAccessLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\DataAccessLayer.dll.config
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\EntityLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\LogicLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\System.Data.OleDb.xml
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\ZedGraph.xml
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\de\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\es\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\it\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.GraphicsFormUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.LibraryHome.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.CRUD.BookInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.CRUD.CategoryInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.PersonalCRUD.StudenReadDataGrid.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.CRUD.StudentInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.PersonalCRUD.StudentReadUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.PersonalMainUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Personal.PersonelRegisterUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Properties.Resources.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Student.StudentCRUD.StudentBookUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Student.StudentCRUD.StudentInfoUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Student.StudentMain.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Student.StudentSigninUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.Writer.WriterMain.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\Release\LibraryManagement.pdb

@@ -1,0 +1,55 @@
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.Form1.resources
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LibraryManagement.exe.config
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\DataAccessLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\EntityLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LogicLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\System.Data.OleDb.dll
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\DataAccessLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\EntityLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LogicLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\System.Data.OleDb.xml
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\obj\x64\Debug\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\DataAccessLayer.dll.config
+C:\Users\mirac\OneDrive\Masaüstü\Visual Programming\SonLibrary\LibraryManagement\bin\x64\Debug\LibraryManagement2020.mdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.GraphicsFormUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.LibraryHome.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.CRUD.BookInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.CRUD.CategoryInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.PersonalCRUD.StudenReadDataGrid.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.CRUD.StudentInformationUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.PersonalCRUD.StudentReadUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.PersonalMainUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Personal.PersonelRegisterUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Student.StudentCRUD.StudentBookUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Student.StudentCRUD.StudentInfoUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Student.StudentMain.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Student.StudentSigninUI.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.Writer.WriterMain.resources
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LibraryManagement2020version2000.mdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LibraryManagement.exe.config
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LibraryManagement.exe
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LibraryManagement.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\DataAccessLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\EntityLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LogicLayer.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\System.Data.OleDb.dll
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\DataAccessLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\DataAccessLayer.dll.config
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\EntityLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\LogicLayer.pdb
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\bin\x64\Debug\System.Data.OleDb.xml
+C:\Users\mirac\OneDrive\Masaüstü\deneme\visual-programming\LibraryManagement\obj\x64\Debug\LibraryManagement.csproj.CopyComplete
